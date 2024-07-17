@@ -1,4 +1,4 @@
-This project demonstrates the use of PySpark for data manipulation and analysis. Below is a step-by-step guide on how to execute various operations using PySpark.
+✔ This project demonstrates the use of PySpark for data manipulation and analysis. Below is a step-by-step guide on how to execute various operations using PySpark.
 
 Steps
 Import Libraries
